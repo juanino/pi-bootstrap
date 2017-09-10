@@ -32,4 +32,4 @@ pip install simplejson
 pip install six
 pip install wsgiref
 pip install youtube-dl
-
+pip install requests
