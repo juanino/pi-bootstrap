@@ -231,3 +231,4 @@
       - zenity-common
       - zlib1g
       - zlib1g-dev
+      - wiringpi
