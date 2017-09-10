@@ -7,7 +7,7 @@ because I'm cheap and use really slow SD cards and get annoyed later when I have
 
 # usage
 ```
-# apt-get install anisble
+# apt-get install ansible
 # echo "localhost ansible_connection=local" >> /etc/ansible/hosts
 # ansible-playbook pi-base.yml
 ```
