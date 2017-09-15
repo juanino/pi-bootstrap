@@ -11,7 +11,6 @@ pip install docutils
 pip install fernet
 pip install futures
 pip install glacier
-pip install iotop
 pip install iso8601
 pip install jmespath
 pip install mechanize
