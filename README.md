@@ -21,3 +21,7 @@ because I'm cheap and use really slow SD cards and get annoyed later when I have
 # ansible-playbook pi-base.yml
 # ./getmodules.sh
 ```
+# post tasks
+```
+# aws configure
+```
