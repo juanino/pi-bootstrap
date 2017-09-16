@@ -24,4 +24,5 @@ because I'm cheap and use really slow SD cards and get annoyed later when I have
 # post tasks
 ```
 # aws configure
+# git config --global user.email "XX@XXX.com"
 ```
