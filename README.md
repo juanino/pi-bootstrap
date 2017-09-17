@@ -10,6 +10,7 @@ because I'm cheap and use really slow SD cards and get annoyed later when I have
 * turn on sshd
 * set timezone
 * set hostname
+* set runlevel to 3
 
 # usage
 ```
