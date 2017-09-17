@@ -1,0 +1,21 @@
+---
+- hosts: all
+  tasks:
+
+  - name: disable lightdm
+    systemd: 
+       name: lightdm
+       state: stopped
+       masked: yes
+
+  - name: disable timidity
+    systemd: 
+       name: timidity
+       state: stopped
+       masked: yes
+
+  - name: disable modem stuff
+    systemd: 
+       name: ModemManager
+       state: stopped
+       enabled: no
