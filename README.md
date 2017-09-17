@@ -20,6 +20,7 @@ because I'm cheap and use really slow SD cards and get annoyed later when I have
 # git clone https://github.com/juanino/pi-bootstrap.git
 # cd pi-bootstrap
 # ansible-playbook pi-base.yml
+# ansible-playbook clean-svc.yml
 # ./getmodules.sh
 ```
 # post tasks
