@@ -233,3 +233,7 @@
       - zlib1g-dev
       - wiringpi
       - iotop
+      - python3-lxml
+      - libxml2-dev
+      - libxslt-dev
+      - python-dev
