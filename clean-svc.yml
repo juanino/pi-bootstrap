@@ -19,3 +19,9 @@
        name: ModemManager
        state: stopped
        enabled: no
+  - name: get default runlevel
+    command: systemctl get-default
+    register: runlevel
+  - name: Set no graphics runlevel
+    command: systemctl set-default multi-user.target
+    when: runlevel.stdout != "multi-user.target"
