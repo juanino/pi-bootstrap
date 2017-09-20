@@ -29,3 +29,4 @@ pip install wsgiref
 pip install youtube-dl
 pip install requests
 pip install awscli
+pip install gpiozero
