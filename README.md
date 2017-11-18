@@ -29,3 +29,5 @@ because I'm cheap and use really slow SD cards and get annoyed later when I have
 # aws configure
 # git config --global user.email "XX@XXX.com"
 ```
+* setup rc.local to slack ip to room
+* setup /etc/waterpi.yaml for slack integration
