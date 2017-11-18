@@ -31,3 +31,4 @@ because I'm cheap and use really slow SD cards and get annoyed later when I have
 ```
 * setup rc.local to slack ip to room
 * setup /etc/waterpi.yaml for slack integration
+* setup [wireless from cli](https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md)
