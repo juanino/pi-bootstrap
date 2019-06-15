@@ -30,3 +30,4 @@ pip install youtube-dl
 pip install requests
 pip install awscli
 pip install gpiozero
+pip3 install pyyaml
