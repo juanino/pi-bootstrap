@@ -8,12 +8,6 @@
        state: stopped
        masked: yes
 
-  - name: disable timidity
-    systemd: 
-       name: timidity
-       state: stopped
-       masked: yes
-
   - name: disable modem stuff
     systemd: 
        name: ModemManager
