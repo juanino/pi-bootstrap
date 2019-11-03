@@ -50,10 +50,8 @@
       - idle3
       - initramfs-tools
       - initscripts
-      - iproute
       - iptables
       - iputils-ping
-      - java-common
       - klibc-utils
       - kmod
       - krb5-locales
@@ -93,7 +91,6 @@
       - mime-support
       - minecraft-pi
       - mount
-      - mountall
       - multiarch-support
       - nano
       - ncdu
@@ -104,8 +101,6 @@
       - netbase
       - netcat-openbsd
       - netcat-traditional
-      - netsurf-common
-      - netsurf-gtk
       - nfs-common
       - ntp
       - obconf
@@ -116,7 +111,6 @@
       - openssh-client
       - openssh-server
       - openssl
-      - oracle-java8-jdk
       - parted
       - patch
       - pciutils
@@ -208,7 +202,6 @@
       - ttf-dejavu-core
       - ucf
       - udev
-      - udisks
       - unzip
       - update-inetd
       - usbmuxd
